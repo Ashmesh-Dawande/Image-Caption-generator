@@ -4,7 +4,7 @@ This repository contains the implementation of an image captioning machine learn
 
 ## Project Report
 
-For a detailed analysis of the project, including model comparisons, accuracy metrics, findings, and suggestions for further improvements, please refer to [final_report.pdf](final_report.pdf).
+For a detailed analysis of the project, including model comparisons, accuracy metrics, findings, and suggestions for further improvements, please refer to [final_report.pdf](report.pdf).
 
 ## Directory Structure
 
